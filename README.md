@@ -44,5 +44,7 @@ Descrever como instalar e preparar qualquer depedência de desenvolvimento para 
 
 ## Meta
 Seu nome - <seuemail@email.com> - [@Seutwitter](https://twitter.com/)
+
 Distribuído sobre a licença. Veja `LICENÇA` para mais informações
+
 <https://github.com/katiri/markdown>
